@@ -1,1 +1,2 @@
 Hallo Welt! Das ist mein erstes Text-File im Git-Repo.
+Jetzt folgt die zweite Zeile Text im txt-Dokument.

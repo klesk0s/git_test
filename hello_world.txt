@@ -1,5 +1,5 @@
 Hallo Welt! Das ist mein erstes Text-File im Git-Repo.
 Jetzt folgt die zweite Zeile Text im txt-Dokument.
-Ab Zeile 3:
-Hier ist meine Änderung vom 27.02.2022 für das Neu-Setup von GitHub,
+Ab Zeile 3 (Änderungen am 27.02.):
+Hier ist meine Änderung für das Neu-Setup von GitHub,
 inklusive neuem SSH-Key und frischer Ubuntu-Installation.
